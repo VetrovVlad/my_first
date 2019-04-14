@@ -1,0 +1,15 @@
+#h1 {
+	border-radius: 5px;
+	border: 2px solid deeppink;
+	background-color: lightpink;
+  	color: blue;
+  	text-align: center;
+  	font-family: Snell Roundhand, cursive;
+  	display: inline;
+	position: relative;
+}
+
+body {
+	background: url(https://wallpapertag.com/wallpaper/full/2/5/1/168702-programming-wallpaper-1920x1080-for-mac.jpg);
+}
+
